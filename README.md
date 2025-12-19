@@ -1,7 +1,8 @@
-visualisation_library
+# visualisation_library
 
-Welcome to visualisation_library — a lightweight toolkit designed to simplify and speed up common plotting tasks in data science.
+Hi there! Welcome to my GitHub repo **visualisation_library**.
 
-In real-world data science workflows, projects often begin with Exploratory Data Analysis (EDA) or model evaluation, both of which require a large number of visualisations. Creating these plots repeatedly can become time-consuming and repetitive.
+In data science projects, work often begins with **Exploratory Data Analysis (EDA)** or **model performance inspection**, both of which require a large number of visualisations.
 
-This library was created to streamline that process by providing pre-built, easy-to-use plotting classes. It is designed for my own productivity, but I am making it publicly available so others can benefit as well.
+I found this process to be **time-consuming and repetitive**, so I created this library to provide a collection of simple, reusable plotting classes. It is intended to make visualisation faster and easier — for myself and for the public.
+
